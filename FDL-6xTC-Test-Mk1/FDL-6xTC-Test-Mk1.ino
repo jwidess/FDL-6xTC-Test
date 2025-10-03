@@ -2,7 +2,7 @@
  * Freezer Data Logger (FDL) - 6x Thermocouple Test Mk1
  * 
  * Hardware:
- *   - ESP32-S3-DevKitC-1
+ *   - ESP32-C6-DevKitC-1
  *   - SEN-30003-T (4-channel MAX31855T breakout) - TC0 to TC3
  *   - 2x Adafruit MAX31856 breakouts - TC4 and TC5
  * 
